@@ -1,5 +1,7 @@
 package com.serhat.examples.interfaces.ClassExample;
 
+
+//All interface variables are 'public static final' and all methods are public
 public class Main {
     public static void main(String[] args) {
         ITelephone timsPhone;

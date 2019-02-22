@@ -3,6 +3,8 @@ package com.serhat.examples.java9;
 public class Examples {
     public static void main(String[] args) {
 
+        
+        
         //Reduction - summary statistics
 //        IntSummaryStatistics summary = IntStream.of(7, 2, 19, 88, 73, 4, 10)
 //                .summaryStatistics();
